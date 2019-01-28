@@ -5,6 +5,6 @@
     <EXCLUDED_PACKAGE NAME="android.databinding.tool.util.L" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
-    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="4" />
   </component>
 </application>

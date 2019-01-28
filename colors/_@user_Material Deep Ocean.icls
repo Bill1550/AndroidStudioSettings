@@ -4,7 +4,7 @@
     <property name="created">2019-01-25T13:06:27</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.3.0.20</property>
-    <property name="modified">2019-01-28T14:01:03</property>
+    <property name="modified">2019-01-28T14:30:14</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.15" />
@@ -65,7 +65,7 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
-    <option name="TOOLTIP" value="292d3e" />
+    <option name="TOOLTIP" value="141925" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="717cb4" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3b3f51" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
@@ -389,7 +389,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="e3e0c1" />
       </value>
     </option>
     <option name="CONSOLE_OUTPUT">
@@ -1433,6 +1433,11 @@
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
         <option name="BACKGROUND" value="12404b" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f8992e" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -33538,7 +33543,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="eae7f8" />
         <option name="BACKGROUND" value="0" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
