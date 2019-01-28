@@ -1,0 +1,263 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CMakeSettings">
+        <configurations>
+          <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+        </configurations>
+      </component>
+      <component name="CompilerConfiguration">
+        <option name="DEFAULT_COMPILER" />
+        <wildcardResourcePatterns>
+          <entry name="!?*.java" />
+          <entry name="!?*.form" />
+          <entry name="!?*.class" />
+          <entry name="!?*.groovy" />
+          <entry name="!?*.scala" />
+          <entry name="!?*.flex" />
+          <entry name="!?*.kt" />
+          <entry name="!?*.clj" />
+        </wildcardResourcePatterns>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="C:/repos/maven-android" value="PREVIEW" />
+            <entry key="D:/repos/transit2" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="MarkdownProjectSettings" wasCopied="true">
+        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.75" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true" openRemoteLinks="true" replaceUnicodeEmoji="false" lastLayoutSetsDefault="false">
+          <PanelProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
+          </PanelProvider>
+        </PreviewSettings>
+        <ParserSettings gitHubSyntaxChange="false" emojiShortcuts="0" emojiImages="0">
+          <PegdownExtensions>
+            <option name="ABBREVIATIONS" value="false" />
+            <option name="ANCHORLINKS" value="true" />
+            <option name="ASIDE" value="false" />
+            <option name="ATXHEADERSPACE" value="true" />
+            <option name="AUTOLINKS" value="true" />
+            <option name="DEFINITIONS" value="false" />
+            <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
+            <option name="FENCED_CODE_BLOCKS" value="true" />
+            <option name="FOOTNOTES" value="false" />
+            <option name="HARDWRAPS" value="false" />
+            <option name="HTML_DEEP_PARSER" value="false" />
+            <option name="INSERTED" value="false" />
+            <option name="QUOTES" value="false" />
+            <option name="RELAXEDHRULES" value="true" />
+            <option name="SMARTS" value="false" />
+            <option name="STRIKETHROUGH" value="true" />
+            <option name="SUBSCRIPT" value="false" />
+            <option name="SUPERSCRIPT" value="false" />
+            <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+            <option name="SUPPRESS_INLINE_HTML" value="false" />
+            <option name="TABLES" value="true" />
+            <option name="TASKLISTITEMS" value="true" />
+            <option name="TOC" value="false" />
+            <option name="WIKILINKS" value="true" />
+          </PegdownExtensions>
+          <ParserOptions>
+            <option name="ADMONITION_EXT" value="false" />
+            <option name="ATTRIBUTES_EXT" value="false" />
+            <option name="COMMONMARK_LISTS" value="true" />
+            <option name="DUMMY" value="false" />
+            <option name="EMOJI_SHORTCUTS" value="true" />
+            <option name="ENUMERATED_REFERENCES_EXT" value="false" />
+            <option name="FLEXMARK_FRONT_MATTER" value="false" />
+            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
+            <option name="GFM_TABLE_RENDERING" value="true" />
+            <option name="GITBOOK_URL_ENCODING" value="false" />
+            <option name="GITHUB_LISTS" value="false" />
+            <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="GITLAB_EXT" value="false" />
+            <option name="GITLAB_MATH_EXT" value="false" />
+            <option name="GITLAB_MERMAID_EXT" value="false" />
+            <option name="HEADER_ID_NON_ASCII_TO_LOWERCASE" value="false" />
+            <option name="HEADER_ID_NO_DUPED_DASHES" value="false" />
+            <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="MACROS_EXT" value="false" />
+            <option name="NO_TEXT_ATTRIBUTES" value="false" />
+            <option name="PARSE_HTML_ANCHOR_ID" value="false" />
+            <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
+          </ParserOptions>
+        </ParserSettings>
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false" addDocTypeHtml="true" noParaTags="false">
+          <GeneratorProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+          </GeneratorProvider>
+          <headerTop />
+          <headerBottom />
+          <bodyTop />
+          <bodyBottom />
+        </HtmlSettings>
+        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssUriSerial="true" isCssTextEnabled="false" isDynamicPageWidth="true">
+          <StylesheetProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
+          </StylesheetProvider>
+          <ScriptProviders />
+          <cssText />
+          <cssUriHistory />
+        </CssSettings>
+        <HtmlExportSettings updateOnSave="false" parentDir="" targetDir="" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetPathType="2" targetExt="" useTargetExt="false" noCssNoScripts="false" useElementStyleAttribute="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" linkFormatType="HTTP_ABSOLUTE" />
+        <LinkMapSettings>
+          <textMaps />
+        </LinkMapSettings>
+      </component>
+      <component name="ProjectCodeStyleConfiguration">
+        <code_scheme name="Project" version="173">
+          <Objective-C-extensions>
+            <file>
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Typedef" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Enum" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Constant" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Global" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Struct" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="FunctionPredecl" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Function" />
+            </file>
+            <class>
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Synthesize" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InitMethod" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="StaticMethod" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InstanceMethod" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
+            </class>
+            <extensions>
+              <pair source="cpp" header="h" fileNamingConvention="NONE" />
+              <pair source="c" header="h" fileNamingConvention="NONE" />
+            </extensions>
+          </Objective-C-extensions>
+        </code_scheme>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>Android Lint</id>
+              </State>
+              <State>
+                <id>Java language level migration aids</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+      <component name="PropertiesComponent">
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="android.project.structure.last.selected" value="SDK Location" />
+        <property name="android.project.structure.proportion" value="0.15" />
+        <property name="android.sdk.path" value="C:/Development/Android/sdk" />
+        <property name="last_opened_file_path" value="D:/repos" />
+        <property name="options.lastSelected" value="Errors" />
+        <property name="options.searchVisible" value="true" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <properties />
+          <listeners />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <envs />
+          <patterns />
+          <method>
+            <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+          </method>
+        </configuration>
+        <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+          <Host>localhost</Host>
+          <Port>5050</Port>
+        </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="myTodoPanelSettings">
+          <TodoPanelSettings />
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
