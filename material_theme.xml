@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.6.4" />
-    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="highlightColor" value="1189be" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="3" />
