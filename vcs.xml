@@ -46,9 +46,13 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="william_hart" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/elliott-troop/CatCope.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\repos" />
+    <option name="cloneParentDir" value="D:\repos\takehome" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
