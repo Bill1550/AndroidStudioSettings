@@ -4,7 +4,7 @@
     <property name="created">2018-12-21T14:56:42</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2019-06-29T18:15:36</property>
+    <property name="modified">2019-06-30T14:33:01</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -39,6 +39,12 @@
     <option name="QUESTION_HINT" value="273350" />
   </colors>
   <attributes>
+    <option name="ANNOTATION_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b0d552" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff3f32" />
@@ -56,6 +62,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
         <option name="FOREGROUND" value="bb7313" />
