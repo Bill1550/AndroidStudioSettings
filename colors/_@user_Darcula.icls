@@ -4,7 +4,7 @@
     <property name="created">2018-12-21T14:56:42</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2019-07-02T06:58:52</property>
+    <property name="modified">2019-07-02T11:02:07</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -65,6 +65,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="af72dd" />
+      </value>
+    </option>
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="79c6c5" />
@@ -72,7 +77,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="a161cf" />
+        <option name="FOREGROUND" value="cf8019" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
