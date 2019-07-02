@@ -4,7 +4,7 @@
     <property name="created">2018-12-21T14:56:42</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2019-07-02T06:34:28</property>
+    <property name="modified">2019-07-02T06:58:52</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -80,6 +80,11 @@
       <value>
         <option name="FOREGROUND" value="c6c6c6" />
         <option name="BACKGROUND" value="3a3a3a" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANDROID_EXTENSIONS_PROPERTY_CALL">
+      <value>
+        <option name="FOREGROUND" value="77cece" />
       </value>
     </option>
     <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
