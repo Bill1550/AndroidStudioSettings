@@ -4,11 +4,11 @@
     <property name="created">2018-12-21T14:56:42</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2019-07-06T16:43:03</property>
+    <property name="modified">2019-07-03T08:43:06</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Droid Sans Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
@@ -65,6 +65,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="c39add" />
+      </value>
+    </option>
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="79c6c5" />
@@ -72,7 +77,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="a04bc4" />
+        <option name="FOREGROUND" value="cf8019" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -82,9 +87,15 @@
         <option name="BACKGROUND" value="3a3a3a" />
       </value>
     </option>
+    <option name="KOTLIN_ANDROID_EXTENSIONS_PROPERTY_CALL">
+      <value>
+        <option name="FOREGROUND" value="77cece" />
+      </value>
+    </option>
     <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
+        <option name="FOREGROUND" value="a383d4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
