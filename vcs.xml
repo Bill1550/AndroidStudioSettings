@@ -62,8 +62,12 @@
           <option name="url" value="https://william_hart@bitbucket.org/william_hart/here-story.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlesamples/android-UniversalMusicPlayer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="c:\repos" />
+    <option name="cloneParentDir" value="C:\repos\samples" />
   </component>
 </application>
