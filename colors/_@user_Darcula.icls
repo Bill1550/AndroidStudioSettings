@@ -4,7 +4,7 @@
     <property name="created">2018-12-21T14:56:42</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2019-09-14T06:33:43</property>
+    <property name="modified">2019-09-15T13:28:56</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -82,7 +82,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="cf8019" />
+        <option name="FOREGROUND" value="a1cf84" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
