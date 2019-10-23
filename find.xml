@@ -2,10 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.kt" />
     <mask>*.properties</mask>
@@ -19,6 +15,7 @@
     <mask>*.json</mask>
     <mask>*Fragment.kt</mask>
     <mask>*.java</mask>
+    <mask>*</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
   </component>

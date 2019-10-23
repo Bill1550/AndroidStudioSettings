@@ -52,11 +52,23 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://gitlab.mvnctl.net" />
-          <option name="userName" value="RhP3zzJK7p6eYGFtzYJs" />
+          <option name="userName" value="JFRASushRn9-sHmmTAZf" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Bill1550/firebase-notifications-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://william_hart@bitbucket.org/william_hart/here-story.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlesamples/android-UniversalMusicPlayer.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\repos\takehome" />
+    <option name="cloneParentDir" value="C:\repos\samples" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
