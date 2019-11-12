@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xm" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,8 +16,8 @@
     <mask>*Fragment.kt</mask>
     <mask>*.java</mask>
     <mask>*</mask>
-    <mask>*.xml</mask>
     <mask>*.kt</mask>
     <mask>*.xm</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
