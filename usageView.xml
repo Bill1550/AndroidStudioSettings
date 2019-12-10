@@ -2,10 +2,13 @@
   <component name="ImportFilteringUsageViewSetting">
     <option name="SHOW_IMPORTS" value="false" />
   </component>
+  <component name="ShowUsagesSettings">
+    <option name="IS_FILTER_DUPLICATED_LINE" value="false" />
+  </component>
   <component name="UsageViewSettings">
     <option name="IS_FILTER_DUPLICATED_LINE" value="false" />
     <option name="GROUP_BY_MODULE" value="false" />
     <option name="IS_PREVIEW_USAGES" value="true" />
-    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.45219347" />
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.51968503" />
   </component>
 </application>
