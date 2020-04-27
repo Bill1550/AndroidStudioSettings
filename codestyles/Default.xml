@@ -32,6 +32,7 @@
   </JetCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="WRAP_ON_TYPING" value="0" />
+    <option name="SMART_EDIT_TABLES" value="true" />
   </MarkdownNavigatorCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
