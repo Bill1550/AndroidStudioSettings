@@ -105,9 +105,9 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="ObjectiveC">
+      <debugger id="kotlin_debugger">
         <configuration>
-          <option name="VALUES_FILTER_ENABLED" value="false" />
+          <option name="filterForStdlibAlreadyAdded" value="true" />
         </configuration>
       </debugger>
     </debuggers>
