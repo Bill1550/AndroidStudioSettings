@@ -15,13 +15,14 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.*</mask>
     <mask>*.json</mask>
     <mask>*Fragment.kt</mask>
     <mask>*.java</mask>
     <mask>*</mask>
     <mask>*.xm</mask>
     <mask>*.xml</mask>
+    <mask>*.*</mask>
+    <mask>*.gradle</mask>
     <mask>*.kt</mask>
   </component>
 </application>
