@@ -21,8 +21,8 @@
     <mask>*</mask>
     <mask>*.xm</mask>
     <mask>*.xml</mask>
-    <mask>*.gradle</mask>
     <mask>*.*</mask>
+    <mask>*.gradle</mask>
     <mask>*.kt</mask>
   </component>
 </application>
