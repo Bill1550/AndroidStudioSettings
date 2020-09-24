@@ -4,13 +4,15 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="default_backend_setting" type="Markdown" />
       <mapping ext="drawio" type="Native" />
       <mapping pattern="RKStorage" type="PLAIN_TEXT" />
       <mapping pattern="video_chat_architecture.md" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="sdl" type="PLAIN_TEXT" />
       <mapping ext="bundle" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
       <removed_mapping ext="pem" approved="true" type="XML" />
+      <mapping pattern="default_backend_setting" type="Markdown" />
     </extensionMap>
   </component>
 </application>
