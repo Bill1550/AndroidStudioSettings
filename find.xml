@@ -16,10 +16,10 @@
     <mask>*.java</mask>
     <mask>*</mask>
     <mask>*.xm</mask>
-    <mask>*.*</mask>
     <mask>*.gradle</mask>
     <mask>*.so</mask>
     <mask>*.xml</mask>
+    <mask>*.*</mask>
     <mask>*.kt</mask>
   </component>
 </application>
